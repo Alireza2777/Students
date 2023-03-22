@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		9F47859D29CADB9B006F2DE9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F47859C29CADB9B006F2DE9 /* main.swift */; };
+		9F4785A629CADC29006F2DE9 /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4785A529CADC29006F2DE9 /* Subject.swift */; };
+		9F4785A829CADEB6006F2DE9 /* English.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4785A729CADEB6006F2DE9 /* English.swift */; };
+		9F4785AA29CADECC006F2DE9 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4785A929CADECC006F2DE9 /* Math.swift */; };
+		9F4785AC29CADED9006F2DE9 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4785AB29CADED9006F2DE9 /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		9F47859929CADB9B006F2DE9 /* Student Grades */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Student Grades"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F47859C29CADB9B006F2DE9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9F4785A529CADC29006F2DE9 /* Subject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
+		9F4785A729CADEB6006F2DE9 /* English.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = English.swift; sourceTree = "<group>"; };
+		9F4785A929CADECC006F2DE9 /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
+		9F4785AB29CADED9006F2DE9 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				9F47859C29CADB9B006F2DE9 /* main.swift */,
+				9F4785A529CADC29006F2DE9 /* Subject.swift */,
+				9F4785A729CADEB6006F2DE9 /* English.swift */,
+				9F4785A929CADECC006F2DE9 /* Math.swift */,
+				9F4785AB29CADED9006F2DE9 /* History.swift */,
 			);
 			path = "Student Grades";
 			sourceTree = "<group>";
@@ -121,6 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F47859D29CADB9B006F2DE9 /* main.swift in Sources */,
+				9F4785A829CADEB6006F2DE9 /* English.swift in Sources */,
+				9F4785A629CADC29006F2DE9 /* Subject.swift in Sources */,
+				9F4785AA29CADECC006F2DE9 /* Math.swift in Sources */,
+				9F4785AC29CADED9006F2DE9 /* History.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
